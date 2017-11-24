@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "new hello world"
+title: "without time"
 date: 2017-11-24
 categories: new tech
 ---
