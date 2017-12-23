@@ -2,7 +2,9 @@
 layout: post
 title:  "Index for This Blog!"
 date:   2017-12-29 
-categories: index
+categories: 
+    - index
+    - test
 ---
 
 <ul>
