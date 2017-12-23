@@ -6,8 +6,8 @@ categories:
     - python
 ---
 
-# 什么是python的魔法方法
+# 1.什么是python的魔法方法
 
-# python的魔法方法有哪些
+# 2.python的魔法方法有哪些
 
-# 这些魔法方法如何使用
+# 3.这些魔法方法如何使用

@@ -1,0 +1,8 @@
+---
+layout: post 
+title: "Bash 快捷键"
+date: 2017-12-23
+categories: 
+    - cheat_sheet
+    - Bash
+---
